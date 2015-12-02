@@ -1,0 +1,39 @@
+/*BY R.K*/
+
+/*/*********SMALL (320) IPHONE-5 LAYOUT ************/
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+
+}
+
+/*/*********SMALL (375) IPHONE-6 LAYOUT ************/
+@media only screen and (min-width: 375px) and (max-width: 413px) {
+
+}
+
+/*/*********SMALL (320) IPHONE-6+ LAYOUT ************/
+@media only screen and (min-width: 414px) and (max-width: 479px) {
+
+}
+
+/**********ANDROID MOBILE Galaxy Note 4 LAYOUT ************/
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+}
+
+/********** TABLET LAYOUT Small tablet portrait ************/
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+}
+
+/******************* NORMAL LAYOUT Tablet portrait***********************/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/******************* NORMAL LAYOUT Desktop Size***********************/
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+
+}
+
+/******************* LARGE LAYOUT Large Screen***********************/
+@media only screen and (min-width: 1212px) {}
